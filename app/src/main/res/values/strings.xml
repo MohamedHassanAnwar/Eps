@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Eps</string>
+    <string name="google_maps_API_key" translatable="false">AIzaSyD2ZmkX_scXckI3m-IVxkUd0Xjseacf3AU</string>
+</resources>
